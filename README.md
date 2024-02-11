@@ -107,5 +107,5 @@
 
 ## Контактная информация
 - Email: dereviankonikolai@gmail.com
-- LinkedIn: https://www.linkedin.com/in/username/
+- LinkedIn: https://www.linkedin.com/in/nikolai-derevianko-471b08290/
 - Личный сайт: https://www.username.com
