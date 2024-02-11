@@ -1,0 +1,70 @@
+# Portfolio: QA Engineer
+
+## About me
+
+Hi! My name is ``{Nikolai}``, I am a beginner tester. <br>
+In this repository you can find some of my projects, completed during my training and practice.
+<br>
+
+## Skills and technologies
+``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
+``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
+
+## Projects
+
+<p> Project 1: testing a web application for teachers from Skyeng</p>
+<p>What I had to do:<p>
+<ol>
+  <li>Task №1: make sure that the website meets all the requirements of the user story. The test will cover functional and non-functional testing of the web application.</li>
+  
+<p> Project 2: testing a web application for teachers from Skyeng</p>
+<p>What I had to do:<p>
+<ol>
+  <li>Task №1: make sure that the website meets all the requirements of the user story. The test will cover functional and non-functional testing of the web application, as well as API.</li>
+
+
+<p>How I solved it: a brief description of the solution (abstract)<p>
+
+> <a href="[https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1](https://qa-bag-report1.atlassian.net/wiki/spaces/~63b61861d3aeefa405440737/pages/1572885/1)">Link to the project</a>
+  (the link should contain demonstrative materials: screenshots, tables, queries, code. The employer should be able to quickly see the results of the work)
+> <p> login: dereviankonikolai@gmail.com </p>
+> <p> password: on request </p>
+ 
+ <p>Conclusions (results):<p>
+<ol>
+  <li>Result №1: Of course, the release of functionality to users (portal) should be postponed until all the detected bugs are fixed. New features should not spoil the work of the already implemented functions, and should not violate the optimal operation of the system.
+
+To make a decision, you can use the following parameters:
+
+Priority of bugs: you need to determine how critically bugs affect the work of the product and the users.
+
+Resources for fixing bugs: you need to estimate the current and future resources needed to fix all the detected bugs.
+
+Importance of new features: you need to evaluate how significant new features are for improving the work of the product and for meeting the requirements of the users.
+
+Profitability of the product: you need to evaluate how the change in the situation with bugs and the introduction of new features will affect the profit of the product and the interest of the users.
+
+As a result of the analysis, if the bugs cannot be fixed in a short time, and the introduction of new features requires a significant rework of the current functionality, then it is better to postpone the release for a later time. If, however, the bugs do not affect the operation of the system and can be fixed in a short time, and the new features are highly expected by the users, then you can consider releasing the product to the users. Be sure to make sure that the already implemented functions work correctly.
+
+You can add the following features:
+
+
+Hints and warnings when creating events in an incorrect format or when entering incorrect data.
+
+Add the ability to add audio and video content to the description of a personal event.
+
+Integration with the use of video conferencing, such as Zoom or Google Meet. This will allow users to create and store video meetings and notify other participants, linking them to personal events.
+
+The ability to share personal events with other users by inviting them to the event. This way, you can organize joint events for a group of users.
+
+Adding the ability to add the location of a personal event on the map. This will allow users to quickly find the event and get directions to the place.
+
+Adding the option "Delete all personal events" for those cases when the user wants to delete all personal events with one click of a button.
+
+Integration with weather services to display the weather forecast. This will allow users to plan their personal events, taking into account the weather forecast for that day.
+
+Adding the ability to choose the notification for each personal event, not just for all reminders. This will allow users to customize different notifications for specific personal events, not for all at once. It is important to remember that new features should be developed with the needs of the users in mind and included in the application in such a way as to not create unnecessary complexity and not add redundancy for the users. They should be easy to use and convenient for the user.</li> </ol>
+
+## Contact information
+- Email: dereviankonikolai@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nikolai-derevianko-471b08290/
